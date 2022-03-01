@@ -1,0 +1,16 @@
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\bin\Debug\net5.0\Projeto RPG Csharp.exe
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\bin\Debug\net5.0\Projeto RPG Csharp.deps.json
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\bin\Debug\net5.0\Projeto RPG Csharp.runtimeconfig.json
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\bin\Debug\net5.0\Projeto RPG Csharp.runtimeconfig.dev.json
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\bin\Debug\net5.0\Projeto RPG Csharp.dll
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\bin\Debug\net5.0\Projeto RPG Csharp.pdb
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.csproj.AssemblyReference.cache
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.AssemblyInfoInputs.cache
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.AssemblyInfo.cs
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.csproj.CoreCompileInputs.cache
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.dll
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\refint\Projeto RPG Csharp.dll
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.pdb
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\Projeto RPG Csharp.genruntimeconfig.cache
+C:\Users\glM_f\Desktop\Projeto RPG Csharp\obj\Debug\net5.0\ref\Projeto RPG Csharp.dll
